@@ -1,4 +1,4 @@
-package com.smartgrocerynative;
+package com.stacknavigator;
 
 import android.app.Application;
 
