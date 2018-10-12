@@ -5,7 +5,6 @@ class Speakers extends React.Component
 {
   ///////////////////////////////////////////
   static navigationOptions = ({ navigation, navigationOptions }) => {
-    console.log("Look at this", navigation);
     return {
        title: `${navigation.state.routeName}`,
        ////////////////////////////////////////////////////////////////////////////
@@ -29,16 +28,10 @@ class Speakers extends React.Component
   constructor(props)
   {
     super(props);
-    this.showCategory= this.showCategory.bind(this);
   }
-
-showCategory= ()=>{
-  console.log(`showCategory Clicked !!`);
-}
  render()
  {
-   console.log(`My Previous Screen is ${this.state.backButton}`);
-   console.log(`My Current Screen is ${this.state.present}`);
+
    return(
      <View>
 

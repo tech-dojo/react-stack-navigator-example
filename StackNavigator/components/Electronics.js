@@ -3,18 +3,12 @@ import {Text, StyleSheet, Button, View} from 'react-native';
 
 class Electronics extends React.Component
 {
-  ///////////////////////////////////////////
-  static navigationOptions = ({ navigation, navigationOptions }) => {
-  //  console.log("Look at this", navigation.state.routeName);
-  //  let nice= navigation.state.routeName;
-  //  console.log("Put Nice things Here ", nice);
-
+    static navigationOptions = ({ navigation, navigationOptions }) => {
     return {
      title: `${navigation.state.routeName}`,
      headerTitleStyle: {flex: 1, textAlign: 'center'},
     };
-  }
-  /////////////////////////////////////////
+}
   state={
     visible: false,
     category: ["Show", "Hide"],
@@ -34,15 +28,9 @@ showCategory= ()=>{
       visible: ! (this.state.visible),
 
     }
-  )
-  console.log(`showCategory Clicked !!`);
-}
- render()
- {
-   //console.log("Feels Good ",this.state.present)
-   console.log(`My Previous Screen is ${this.state.backButton}`);
-   console.log(`My Current Screen is ${this.state.present}`);
+  )}
 
+ render() {
    let category= this.state.visible;
    let show=  (category) ? "Hide Category" : "Show Category"
    return(
