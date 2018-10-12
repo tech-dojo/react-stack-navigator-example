@@ -3,7 +3,6 @@ import {Text, StyleSheet, Button, View, ScrollView, TouchableOpacity} from 'reac
 
 class ElectricInstrument extends React.Component
 {
-  ///////////////////////////////////////////
   static navigationOptions = ({ navigation, navigationOptions }) => {
     return {
      title: `${navigation.state.routeName}`,
@@ -13,7 +12,7 @@ class ElectricInstrument extends React.Component
            <Text style={{fontWeight: 'bold', paddingLeft: 10}} > {" Back To \n  "+ navigation.getParam('name', '')} </Text>
         </TouchableOpacity>
                 ),
-     headerTitleStyle: {flex: 1, textAlign: 'center'},
+      headerTitleStyle: {flex: 1, textAlign: 'center'},
     };
   }
 
