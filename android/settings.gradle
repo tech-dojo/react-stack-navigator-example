@@ -1,3 +1,3 @@
-rootProject.name = 'smartGroceryNative'
+rootProject.name = 'StackNavigator'
 
 include ':app'

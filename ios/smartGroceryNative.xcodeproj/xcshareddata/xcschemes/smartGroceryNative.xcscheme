@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "smartGroceryNative.app"
-               BlueprintName = "smartGroceryNative"
-               ReferencedContainer = "container:smartGroceryNative.xcodeproj">
+               BuildableName = "StackNavigator.app"
+               BlueprintName = "StackNavigator"
+               ReferencedContainer = "container:StackNavigator.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "smartGroceryNativeTests.xctest"
-               BlueprintName = "smartGroceryNativeTests"
-               ReferencedContainer = "container:smartGroceryNative.xcodeproj">
+               BuildableName = "StackNavigatorTests.xctest"
+               BlueprintName = "StackNavigatorTests"
+               ReferencedContainer = "container:StackNavigator.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -61,9 +61,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "smartGroceryNativeTests.xctest"
-               BlueprintName = "smartGroceryNativeTests"
-               ReferencedContainer = "container:smartGroceryNative.xcodeproj">
+               BuildableName = "StackNavigatorTests.xctest"
+               BlueprintName = "StackNavigatorTests"
+               ReferencedContainer = "container:StackNavigator.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -71,9 +71,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "smartGroceryNative.app"
-            BlueprintName = "smartGroceryNative"
-            ReferencedContainer = "container:smartGroceryNative.xcodeproj">
+            BuildableName = "StackNavigator.app"
+            BlueprintName = "StackNavigator"
+            ReferencedContainer = "container:StackNavigator.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "smartGroceryNative.app"
-            BlueprintName = "smartGroceryNative"
-            ReferencedContainer = "container:smartGroceryNative.xcodeproj">
+            BuildableName = "StackNavigator.app"
+            BlueprintName = "StackNavigator"
+            ReferencedContainer = "container:StackNavigator.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -113,9 +113,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "smartGroceryNative.app"
-            BlueprintName = "smartGroceryNative"
-            ReferencedContainer = "container:smartGroceryNative.xcodeproj">
+            BuildableName = "StackNavigator.app"
+            BlueprintName = "StackNavigator"
+            ReferencedContainer = "container:StackNavigator.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
