@@ -1,4 +1,4 @@
-# Navigation in React Native with StackNavigtor
+# Navigation in React Native with StackNavigator
 This simple mobile app demonstrates how to navigate between screens using Stack Navigation in a React Native app.
 
 To learn more, read here: 
